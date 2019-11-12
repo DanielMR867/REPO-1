@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 vsvsvvs
+=======
+vsvsvv
+>>>>>>> rama1
